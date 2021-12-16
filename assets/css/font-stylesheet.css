@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'frizonregular';
+    src: url('frizon-webfont.woff2') format('woff2'), url('frizon-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'FuturaStdMedium';
+    src: url('assets/fonts/FuturaStdMedium.ttf') format('truetype');
+    /* Safari, Android, iOS */
+    src: url('assets/fonts/FuturaStdMedium.woff') format('woff');
+    src: url('assets/fonts/FuturaStdMedium.woff2') format('woff2');
+}
